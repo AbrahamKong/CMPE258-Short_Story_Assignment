@@ -8,7 +8,7 @@ https://medium.com/@abraham.jkong/what-should-i-know-about-cross-validation-as-a
 
 SlideShare.com Link:
 
-https://www.slideshare.net/AbrahamKong/cmpe-255-cross-validation-250760247
+https://docs.google.com/presentation/d/16tY9V0D3gs4mlQn8fr-yO24bIPmGm4YTv1v95h644p0/edit?usp=sharing
 
 Video Link:
 
