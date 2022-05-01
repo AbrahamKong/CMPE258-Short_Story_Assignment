@@ -12,4 +12,4 @@ https://www.slideshare.net/AbrahamKong/fast-ai-with-image-classificationpptx
 
 Video Link:
 
-https://youtu.be/trsVr8SE3TM
+https://youtu.be/vHpQsCYJtZA
